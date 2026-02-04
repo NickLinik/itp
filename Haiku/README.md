@@ -3,7 +3,7 @@
 
 - I opened a terminal, and navigated to my chosen directory.
 
-- I used this say command in order to generate an audio [file](/Haiku.aiff)
+- I used this say command in order to generate an audio [file](/Haiku/Haiku.aiff)
 
     `say -v "Fred" "Hellol, we have been trying to reach you about your cars extended warranty. Our records indicate you may have a lapse in coverage." -o Haiku.aiff`
 
