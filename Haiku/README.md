@@ -7,7 +7,7 @@
 
     `say -v "Fred" "Hellol, we have been trying to reach you about your cars extended warranty. Our records indicate you may have a lapse in coverage." -o Haiku.aiff`
 
-    ![Screenshot](/imgAssets/Screenshot.png "Screenshot")
+    ![Screenshot](/Haiku/imgAssets/Screenshot.png "Screenshot")
 
 ## How I Did It
 
