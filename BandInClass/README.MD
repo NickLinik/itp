@@ -9,4 +9,4 @@ My team worked together well and pretty much had the website done by the time i 
 
 ## Self Evaluation
 
-While i wasnt there for the whole process, I was able to make a meaningful contribution, and the reason for my lateness wasnt really in my control, so i dont believe i should be heavily penalized for this
+While i wasnt there for the whole process, I was able to make a meaningful contribution, and the reason for my lateness wasnt really in my control, so i dont believe i should be as heavily penalized for this
